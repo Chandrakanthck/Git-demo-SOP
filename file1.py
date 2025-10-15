@@ -4,3 +4,4 @@ while count <= 5:
     count += 1#newcomment
 print("file modified.")
 new Changes from other Developer
+Critical bug fix
